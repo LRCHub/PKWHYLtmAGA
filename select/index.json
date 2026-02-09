@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Salt",
+  "base_artist": "Ava Max",
+  "createdAt": "2026-02-09T13:28:00.709445Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Salt With a Deadly Pepa",
+      "artist": "Salt-N-Pepa",
+      "has_synced": true,
+      "path": "select/01_A_Salt_With_a_Deadly_Pepa_Salt-N-Pepa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bath Salt",
+      "artist": "LL Cool J",
+      "has_synced": false,
+      "path": "select/02_Bath_Salt_LL_Cool_J.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Grain of Salt",
+      "artist": "POP ETC",
+      "has_synced": true,
+      "path": "select/03_Grain_of_Salt_POP_ETC.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Grain Of Salt",
+      "artist": "The Morning Benders",
+      "has_synced": true,
+      "path": "select/04_Grain_Of_Salt_The_Morning_Benders.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Grain of Salt (Big Echo Version)",
+      "artist": "The Morning Benders",
+      "has_synced": true,
+      "path": "select/05_Grain_of_Salt_(Big_Echo_Version)_The_Morning_Benders.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Building Steam With A Grain Of Salt",
+      "artist": "DJ Shadow",
+      "has_synced": true,
+      "path": "select/06_Building_Steam_With_A_Grain_Of_Salt_DJ_Shadow.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Building Steam With A Grain Of Salt - Alternate Take Without Overdubs",
+      "artist": "DJ Shadow",
+      "has_synced": false,
+      "path": "select/07_Building_Steam_With_A_Grain_Of_Salt_-_Alternate_Take_Without_Overdubs_DJ_Shadow.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Building Steam With a Grain of Salt (alternate take without overdubs)",
+      "artist": "DJ Shadow",
+      "has_synced": false,
+      "path": "select/08_Building_Steam_With_a_Grain_of_Salt_(alternate_take_without_overdubs)_DJ_Shadow.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Salt",
+      "artist": "Alex G",
+      "has_synced": false,
+      "path": "select/09_Salt_Alex_G.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Salt & Cherries - Mc5",
+      "artist": "Wendy & Lisa",
+      "has_synced": false,
+      "path": "select/10_Salt_&_Cherries_-_Mc5_Wendy_&_Lisa.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Knee Deepen - Salt City Orchestra Edit",
+      "artist": "Moloko",
+      "has_synced": false,
+      "path": "select/11_Knee_Deepen_-_Salt_City_Orchestra_Edit_Moloko.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Salt Water Fish",
+      "artist": "Ruby",
+      "has_synced": true,
+      "path": "select/12_Salt_Water_Fish_Ruby.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Vinegar & Salt",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/13_Vinegar_&_Salt_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Vinegar & Salt - Live at Koningin Elisabethzaal 2012",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/14_Vinegar_&_Salt_-_Live_at_Koningin_Elisabethzaal_2012_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Vinegar & Salt - Live Album Version",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/15_Vinegar_&_Salt_-_Live_Album_Version_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Vinegar & Salt (Live)",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/16_Vinegar_&_Salt_(Live)_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Vinegar & Salt - Llorca's Half Truth Remix",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/17_Vinegar_&_Salt_-_Llorca's_Half_Truth_Remix_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Vinegar & Salt - Orchestra Version",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/18_Vinegar_&_Salt_-_Orchestra_Version_Hooverphonic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Salt",
+      "artist": "Ava Max",
+      "has_synced": false,
+      "path": "select/pl_01_Salt_Ava_Max.txt"
+    }
+  ]
+}
